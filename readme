@@ -1,12 +1,18 @@
 The following is a comprehensive description of Notebooks within this branch, including information about the data.
 
 The Notebooks:
-MobileNet ->
-Dis_model_1 ->
+MobileNet_binary -> refers to the binary classification model, inside this notebook: code for binary model, code for model trained on IQ data only, 
+code for model considering benign scans, code for Gabor filter for future research
+
+Dis_model_1 -> refers to the initial models including ResNet101V2 model
+
+binary_vgg16_resnet -> refers to the binary models for VGG16 and ResNet50
 
 
 The data:
+CTscns1C –> refers to the processed larger data set with 4 sub folders of 3 NSCLCs and 1 non-cancerous collection
+CTscns2C –> refers to the binary data set formed from the larger kaggle data set
+BenignCTScns –> refers to the processed IQ data set
+CTbenignremoved –> refers to the IQ data set with the benign scans removed from each of the test, train and validation files for binary model
 
 
-
-Calls within notebooks (folders and directories loaded in for training test etc.):
