@@ -16,3 +16,9 @@ BenignCTScns –> refers to the processed IQ data set
 CTbenignremoved –> refers to the IQ data set with the benign scans removed from each of the test, train and validation files for binary model
 
 
+Acknowledgments/ code inspired by:
+https://www.kaggle.com/code/ahmedmohameddawoud/cnn-visualizing-activations
+https://www.kaggle.com/code/ashuta03/image-texture-segmentation-using-gabor-filters
+https://www.kaggle.com/datasets/yusufdede/lung-cancer-dataset
+https://www.kaggle.com/code/backiyapriya/starter-lung-cancer-dataset-76e12ef8-3
+https://www.kaggle.com/code/anandhuh/image-classification-using-cnn-for-beginners
