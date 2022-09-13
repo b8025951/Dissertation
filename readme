@@ -5,9 +5,13 @@ The Notebooks:
 MobileNet_binary -> refers to the binary classification model, inside this notebook: code for binary model, code for model trained on IQ data only, 
 code for model considering benign scans, code for Gabor filter for future research
 
+Model2VGG16 -> refers to the VGG16 model considering the 4 sub folders of data
+
 ResNetMod1 -> refers to the initial models including ResNet101V2 model
 
 binary_vgg16_resnet -> refers to the binary models for VGG16 and ResNet50
+
+
 
 
 The data:
